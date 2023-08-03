@@ -1,0 +1,3 @@
+# Open_cv_cops_induction
+Interactive Ping Pong Game without touching the keyboard!
+Just run the Python file and it should be good to go...
